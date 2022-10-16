@@ -1,3 +1,12 @@
+
+
+This version of FE - ANgular is modified to work with new Gateway of microservices architecture 
+
+
+
+
+
+
 # Angular 13 Login and Registration with JWT and Web API example
 
 Build Angular 13 Token based Authentication & Authorization Application with Web Api and JWT (including HttpInterceptor, Router & Form Validation).
